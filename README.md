@@ -4,9 +4,8 @@
 
 It comes with built-in color pickers, brush controls, eraser, download support, and a responsive UI — perfect for creative tools, annotation features, or sketch pads in web apps.
 
-* Canvasly Preview
-<img width="1917" height="832" alt="image" src="https://github.com/user-attachments/assets/768bc92a-8c89-407e-8879-6fdde6f2fdc8" />
-
+### Canvasly Preview
+<img width="1919" height="817" alt="image" src="https://github.com/user-attachments/assets/54329971-619e-4381-bf47-b2bdc5d25901" />
 
 ---
 
