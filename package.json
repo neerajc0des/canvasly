@@ -1,6 +1,6 @@
 {
   "name": "canvasly",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A customizable and easy-to-use React drawing component, styled with Tailwind CSS.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
