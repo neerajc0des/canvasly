@@ -8,6 +8,7 @@
   "files": [
     "dist"
   ],
+  "private": false,
   "type": "commonjs",
   "exports": {
     ".": {
