@@ -1,17 +1,27 @@
-# Canvasly ✨🎨
+# 🎨 Canvasly
 
-A customizable and easy-to-use React drawing component, styled with Tailwind CSS.
+**Canvasly** is a customizable and easy-to-use **React drawing/sketching component** built with TypeScript, styled using **Tailwind CSS**, and powered by **react-sketch-canvas**.
 
-## Key Features
-* Interactive Drawing: Smooth and responsive.
-* Customizable Tools: Adjustable brush sizes, extensive color palette, and dynamic custom color creation.
-* Essential Controls: Undo, redo, clear, eraser, and bucket fill.
-* Export Capability: Save drawings as PNG images.
-* Responsive Design: Works across devices.
+It comes with built-in color pickers, brush controls, eraser, download support, and a responsive UI — perfect for creative tools, annotation features, or sketch pads in web apps.
 
-## Installation
-Install the `canvasly` package:
+![Canvasly Preview](https://canvasly-demo.vercel.app) <!-- (optional if you want to add preview GIF/image) -->
+
+---
+
+## 🚀 Features
+
+- ✏️ Freehand sketching and erasing
+- 🌈 Predefined + custom color palettes
+- 📏 Adjustable brush size slider
+- 🎨 Fill canvas background with a color
+- 💾 Download canvas as PNG
+- ♻️ Undo / Redo
+- 💅 ShadCN-styled buttons and sliders
+- 🧠 Type-safe and responsive
+
+---
+
+## 📦 Installation
+
 ```bash
 npm install canvasly
-# Peer dependencies required:
-npm install react react-dom react-sketch-canvas react-color lucide-react tailwindcss postcss autoprefixer
